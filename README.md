@@ -1,9 +1,10 @@
 # PassManager
 
-Runs with : Python 3
+Runs with :
+Python 3
 
+To know : 
 1 image "lock.png" included, need to update it if you want to add yours.
-
 Uses pyperclip, tkinter, SQLite3
 
 Project to create a data base linked to a basic GUI.
